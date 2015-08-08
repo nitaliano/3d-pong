@@ -1,0 +1,8 @@
+{
+  "name": "3d-pong",
+  "version": "0.0.1",
+  "description": "3D Pong Game",
+  "dependencies": {
+    "three.js": "^0.71.0"
+  }
+}
